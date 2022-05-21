@@ -19,3 +19,5 @@ public:
 // https://leetcode.com/problems/maximum-subarray/
 // Problem for day 1 of LeetCode DS study plan
 // Simple application of Kadane's algorithm
+
+// Striver's SDE sheet https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/  Day 1 Problem 5
